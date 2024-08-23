@@ -1,4 +1,3 @@
-
 import serial, time
 from datetime import datetime
 
